@@ -1,0 +1,253 @@
+<section class="Home pt-5 overflow-hidden" id="Home">
+		<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+			<div class="carousel-indicators">
+			  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+			  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+			</div>
+			<div class="carousel-inner">
+			  <div class="carousel-item active">
+				<div class="home-banner home-banner-1">
+					<div class="home-banner-text">
+						<h2>Women</h2>
+						<h3>52% Discount For This Season</h3>
+						<a href="#" class="btn btn-danger text-uppercase mt-4">Our Products</a>
+					</div>
+				</div>
+			</div>
+			  <div class="carousel-item">
+				<div class="home-banner home-banner-2">
+					<div class="home-banner-text">
+						<h2>Go For</h2>
+						<h3>Shopping With US</h3>
+						<a href="#" class="btn btn-danger text-uppercase mt-4">Our Products</a>
+					</div>
+				</div>
+			  </div>
+			  <div class="carousel-item">
+				<div class="home-banner home-banner-3">
+					<div class="home-banner-text">
+						<h2>E-Shop</h2>
+						<h3>With Working Card & pay Pal</h3>
+						<a href="#" class="btn btn-danger text-uppercase mt-4">Our Products</a>
+					</div>
+				</div>
+			  </div>
+			</div>
+			<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+			  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			  <svg xmlns="http://www.w3.org/2000/svg" height="80px" viewBox="0 -960 960 960" width="50px" fill="#eb0a19"><path d="M561-226.43 306.43-481 561-735.57 617.57-679l-198 198 198 198L561-226.43Z"/></svg>
+			</button>
+			<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+			  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+			  <svg xmlns="http://www.w3.org/2000/svg" height="80px" viewBox="0 -960 960 960" width="50px" fill="#eb0a19"><path d="m516.43-481-198-198L375-735.57 629.57-481 375-226.43 318.43-283l198-198Z"/></svg>
+			</button>
+		</div>
+	</section>
+
+	
+	<section class="offer-container">
+		<div class="offers">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 col-lg-4 mb-lg-0 mb-4">
+						<a href="#">
+							<div class="offer-box text-center positon-relative">
+								<div class="offer-inner">
+									<div class="offer-image positon-relative overflow-hidden">
+										<img src="https://st2.depositphotos.com/1426049/5957/i/450/depositphotos_59573541-stock-photo-beautiful-girl-in-skirt.jpg" alt="offers" class="img-fluid">
+										<div class="offer-overlay"></div>
+									</div>
+									<div class="offer-info">
+										<div class="offer-info-inner">
+											<p class="heading-bigger text-capitalize">sale 30%</p>
+											<p class="offer-title-1 text-uppercase font-weight-bold">Don't Miss This Chance</p>
+											<button type="button" class="btn btn-outline-danger text-uppercase mt-4">Shop Now</button>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-sm-6 col-lg-4 mb-lg-0 mb-4 d-flex flex-column justifty-content-between">
+						<a href="#">
+							<div class="offer-box text-center positon-relative mb-4 mb-sm-0 mb-lg-0">
+								<div class="offer-inner">
+									<div class="offer-image positon-relative overflow-hidden">
+										<img src="https://t4.ftcdn.net/jpg/06/47/16/33/360_F_647163318_R7upZlv1ptm71jbTYQtaqi5YCqHJGTRn.jpg" alt="offers" class="img-fluid">
+										<div class="offer-overlay"></div>
+									</div>
+									<div class="offer-info">
+										<div class="offer-info-inner">
+											<p class="heading-bigger text-capitalize">sale 70%</p>
+											<p class="offer-title-1 text-uppercase font-weight-bold">Don't Miss This Chance</p>
+											<button type="button" class="btn btn-outline-danger text-uppercase mt-4">Shop Now</button>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</a>
+						<a href="#">
+							<div class="offer-box text-center positon-relative">
+								<div class="offer-inner">
+									<div class="offer-image positon-relative overflow-hidden">
+										<img src="https://hips.hearstapps.com/hmg-prod/images/vac-mda-ttts-2400a-000r-h024-2400a-000g-h023-still-quatuor-66bb3899dc4a9.jpg?crop=0.668xw:1.00xh;0.170xw,0&resize=640:*" alt="offers" class="img-fluid">
+										<div class="offer-overlay"></div>
+									</div>
+									<div class="offer-info">
+										<div class="offer-info-inner">
+											<p class="heading-bigger text-capitalize">sale 50%</p>
+											<p class="offer-title-1 text-uppercase font-weight-bold">Don't Miss This Chance</p>
+											<button type="button" class="btn btn-outline-danger text-uppercase mt-4">Shop Now</button>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-sm-6 col-lg-4 mb-lg-0 mb-4">
+						<a href="#">
+							<div class="offer-box text-center positon-relative">
+								<div class="offer-inner">
+									<div class="offer-image positon-relative overflow-hidden">
+										<img src="https://img.freepik.com/free-photo/front-view-confident-woman-studio_23-2148410956.jpg" alt="offers" class="img-fluid">
+										<div class="offer-overlay"></div>
+									</div>
+									<div class="offer-info">
+										<div class="offer-info-inner">
+											<p class="heading-bigger text-capitalize">sale 25%</p>
+											<p class="offer-title-1 text-uppercase font-weight-bold">Don't Miss This Chance</p>
+											<button type="button" class="btn btn-outline-danger text-uppercase mt-4">Shop Now</button>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.home .home-banner-1,
+.home .home-banner-2,
+.home .home-banner-3
+{
+	background-position:  90% center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: 650px;
+}
+.home .home-banner-1{
+
+	background-image: url("https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2022-10/beautiful-asian-woman-carrying-colorful-bags-shopping-online-with-mobile-phone.jpg");
+}
+.home .home-banner-2{
+	background-image: url("https://media.wired.com/photos/64768c549a01d944fee35eba/master/pass/I-Asked-ChatGPT-to-Help-Me-Shop.-It-Failed-Gear-GettyImages-1337276171.jpg");
+}
+.home .home-banner-3{
+	background-image: url("https://www.visitphilly.com/wp-content/uploads/2023/02/king-of-prussia-shoppers-hero-crtsy-simon-malls-2200x1237px.jpg");
+}
+
+.home .home-banner .home-banner-text{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.home .home-banner .home-banner-text h2{
+	font-size: 7vh;
+	font-weight: 800;
+}
+.home .home-banner .home-banner-text h3{
+	color: var(--bg-white);
+}
+.home .home-banner-1 h2{
+	color: crimson;
+}
+.home .home-banner-3 h2{
+	color: #c73939;
+}
+
+.home .carousel-indicators [data-bs-target]{
+	background-color: var(--bg-danger);
+	width: 2.5rem;
+	height: 0.313rem;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+	background: transparent;
+}
+
+.offers{
+	padding-top: 8rem;
+}
+
+.offers .offer-box .offer-image::before{
+	position: absolute;
+	content: '';
+	top: 0;
+	left: -100%;
+	z-index: 2;
+	display: block;
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(to right, rgba(255, 255, 255, 0)0%, rgba(255, 255, 255, 0.3)100%);
+	background: linear-gradient(to right, rgba(255, 255, 255, 0)0%, rgba(255, 255, 255, 0.3)100%);
+	transform: skewX(-25deg);
+}
+
+.offers .offer-box .offer-image img{
+	transform: scale(1.02);
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.offers .offer-box:hover .offer-image::before{
+	animation: effect-shine 5s;
+}
+
+@keyframes effect-shine{
+	100%{
+		left: 150%;
+	}
+}
+
+.offers .offer-overlay::before{
+	content: '';
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.4);
+
+}
